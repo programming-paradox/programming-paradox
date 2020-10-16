@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**fahad-programmer/fahad-programmer** is a ✨ _special_ ✨ repository because its Consists Of Simple Python Programs Made By Me.
+**fahad-programmer** is a ✨ _special_ ✨ Person That Is In Love With Two Things One Is Computer And The Other One Is......
 
 These Are Some Of The Things You Might Be Interested In:
 
