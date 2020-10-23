@@ -1,7 +1,7 @@
 import cv2
 
 # Our image
-# img_file = 'main_car.jpg' #Use your own image
+img_file = 'main_car.jpg' #Use your own image
 video = cv2.VideoCapture('tesla.mp4') #Use your own video
 
 # Our pretrained car classifier
@@ -17,6 +17,7 @@ car_tracker = cv2.CascadeClassifier(car_tracker)
 pedestrian_tracker = cv2.CascadeClassifier(pedestrian_tracker_file)
 
 #Run forever
+
 while True:
     (read_successful, frame) = video.read()
 
@@ -61,10 +62,10 @@ img = cv2.imread(img_file)
 black_n_white = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 #Creating the car classifier
-car_tracker = cv2.CascadeClassifier(classifier_file)
+car_tracker1 = cv2.CascadeClassifier(car_tracker)
 
 #Detect Cars
-cars = car_tracker.detectMultiScale(black_n_white)
+cars = car_tracker1.detectMultiScale(black_n_white)
 print(cars)
 
 #Draw Rectangles around the cars
