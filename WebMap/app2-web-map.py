@@ -1,4 +1,4 @@
-import folium
+import folium  # Library Used For Visualization
 import pandas
 
 data = pandas.read_csv("Volcanoes.txt")
