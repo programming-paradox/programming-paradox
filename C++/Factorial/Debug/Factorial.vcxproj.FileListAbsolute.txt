@@ -1,0 +1,2 @@
+D:\fahad-programmer\C++\Factorial\Debug\Factorial.exe
+D:\fahad-programmer\C++\Factorial\Debug\Factorial.pdb
