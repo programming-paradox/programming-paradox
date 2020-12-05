@@ -5,8 +5,8 @@
 
 These Are Some Of The Things You Might Be Interested In:
 
-- 🔭 I’m currently working on ... Nothing
-- 🌱 I’m currently learning ... Lot's of thing (JavaScript, c++)
+- 🔭 I’m currently working on ... Ecommerce Project (Amazon)
+- 🌱 I’m currently learning ... Lot's of thing (JavaScript, C++, Python)
 - 👯 I’m looking to collaborate on ... Anything I Can Understand
 - 🤔 I’m looking for help with ... Movie Recommendation
 - 💬 Ask me about ... MySelf
