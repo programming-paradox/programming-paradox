@@ -2,8 +2,8 @@
 
 I'm a Student who is passionate about making world more advance, creating technology to elevate people, and building community of creative people. Some languages I enjoy working with include Python (Django, Tensorflow, Flask, OpenCV, etc), C++ and Julia. I love artificial intelligence more than anything in this world, and wants to make a daily life of a human being more efficient by working side by side with the AI.
 
-## Module's Made Bhy me
-1. <strong>PyHoroscope</strong>: To Get all the data about the horoscope on daily,  weekly and many more basis. Visit the link below to chec it out.
+## Module's Made By me
+1. <strong>PyHoroscope</strong>: To Get all the data about the horoscope on daily,  weekly and many more basis. Visit the link below to check it out.
 Visit My module Page https://pypi.org/project/PyHoroscope/.
 
 ## Profile
