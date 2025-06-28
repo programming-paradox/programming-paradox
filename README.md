@@ -1,4 +1,4 @@
-# Hi, I'm Haseeb 👋 👨🏻‍💻
+# Hi, I'm Fahad 👋 👨🏻‍💻
 <img src="https://i.ibb.co/nPhRB62/Fahad-Banner.png" alt="banner that consist name as Fahad Malik and his octacat">
 <p>I'm a software engineer & Full Stack Developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Django and Java. I adore creating artificial intelligence systems alot and wants to make the everyday life of a human being more effective by making AI work side by side with us.</p>
 
